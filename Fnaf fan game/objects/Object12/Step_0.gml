@@ -26,12 +26,17 @@ y += yspeed
 
 //animate
 if(xspeed > 0){
-	sprite_index = Papyrus_wut
+	sprite_index = Eclipse_Start_walkF
 } else if(xspeed < 0){
-	sprite_index = Papyrus_wut
+	sprite_index = Eclipse_Start_walkF
 }
 if(yspeed > 0){
-	sprite_index = Papyrus_wut
+	sprite_index = Eclipse_Start_walkF
 } else if(yspeed < 0){
-	sprite_index = Papyrus_wut
+	sprite_index = Eclipse_Start_walkF
+}
+if (xspeed !=0 or yspeed !=0){
+	image_speed = 1
+} else if (xspeed = 0 or yspeed = 0){
+	image_speed = 0
 }

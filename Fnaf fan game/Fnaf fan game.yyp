@@ -58,7 +58,7 @@
     {"id":{"name":"SoulsConflict","path":"sounds/SoulsConflict/SoulsConflict.yy",},},
     {"id":{"name":"Barrier_blockage","path":"sprites/Barrier_blockage/Barrier_blockage.yy",},},
     {"id":{"name":"Eclipse_Start_walkF","path":"sprites/Eclipse_Start_walkF/Eclipse_Start_walkF.yy",},},
-    {"id":{"name":"Eclipse_Start","path":"sprites/Eclipse_Start/Eclipse_Start.yy",},},
+    {"id":{"name":"Eclipse_WD","path":"sprites/Eclipse_WD/Eclipse_WD.yy",},},
     {"id":{"name":"Freddy_Plush","path":"sprites/Freddy_Plush/Freddy_Plush.yy",},},
     {"id":{"name":"Moon_Start_walfF","path":"sprites/Moon_Start_walfF/Moon_Start_walfF.yy",},},
     {"id":{"name":"Moon_Start","path":"sprites/Moon_Start/Moon_Start.yy",},},
