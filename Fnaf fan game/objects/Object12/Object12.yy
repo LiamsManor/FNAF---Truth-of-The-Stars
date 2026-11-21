@@ -30,10 +30,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"Eclipse_Start_walkF",
-    "path":"sprites/Eclipse_Start_walkF/Eclipse_Start_walkF.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
